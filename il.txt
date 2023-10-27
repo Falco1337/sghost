@@ -1,0 +1,9 @@
+You must download first this file to generate ip's that im already scan.
+
+make sure your machine already update to update
+
+apt update && apt full-upgrade -y
+
+
+https://anonymfile.com/J6e4/israel-ip.txt
+https://anonymfile.com/63RK/ip-il.txt
